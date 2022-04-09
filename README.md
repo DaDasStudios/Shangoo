@@ -1,0 +1,2 @@
+# Shangoo
+A calculator
