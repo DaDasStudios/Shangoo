@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "logy_warning": true,
+        "start_loadscreen": false,
+        "start_menu": true
+    },
+    "macros": {
+        "macro1": "None",
+        "macro2": "None",
+        "macro3": "None",
+        "macro4": "None",
+        "macro5": "None"
+    }
+}

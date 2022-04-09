@@ -1,0 +1,201 @@
+{   "name":"en_us.json",
+    "language":"English",
+
+    "settings_btn":{
+        "name":"Settings",
+        "language":"Language",
+        "units":"Units",
+        "macros":"Macros",
+        "preferences": "Preferences"
+    },
+
+    "social_media": {
+        "webpage": "Webpage",
+        "youtube": "Youtube channel",
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+    },
+    
+    "media_btn":"Social Media",
+    "about_btn":"About us",
+    "help":"Help",
+    "apply_btn":"Apply",
+
+    "standar_mode":"Standar",
+    "science_mode":"Science",
+    "trigonometry_mode":"Trigonometry",
+
+    "warning":{
+        "restart":"Please start Shangoo again for applying the changes",
+        "title": "Warning!",
+        "logy_help":"Don't forget it!, logy only work when there's ^ next to the number what you use\nExample: logy8^23",
+        "eng_help":"Don't forget it!, ENG Button only need the pure expression, don't try to use complex operations"
+    },
+    "help_texts": {
+        "useful_t": "Useful",
+        "calcul_t": "Calculators",
+        "manual_t": "Manual drawer",
+        "conversions_t": "Conversions",
+        "settings_t": "Settings",
+        "useful": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Most useful</span></p><p><span style=\" font-size:10pt; font-weight:600;\">What's Shangoo?</span></p><p><span style=\" font-size:9pt;\">Shangoo is a calculator with all the known functions, however, Shangoo includes a useful functions for casual users, the functions are the following:</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Standar Calculator</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Sciencie Calculator</span></p><p><span style=\" font-size:9pt; font-style:italic;\">-Trygonometry Calculator</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Historial function</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Paint operations</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Convertions of measures</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Graphics </span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">How to configure the language?</span></p><p><span style=\" font-size:9pt;\">To configure or set the language is as simple as to open the side menu by pressing the menu button.</span></p><p><span style=\" font-size:9pt;\">1. Go to help</span></p><p><span style=\" font-size:9pt;\">2. Press &quot;Settings&quot; button.</span></p><p><span style=\" font-size:9pt;\">3. Go to &quot;language&quot; tab.</span></p><p><span style=\" font-size:9pt;\">4. Select the needed one.</span></p><p><span style=\" font-size:9pt;\">5. Apply the changes.</span></p><p><span style=\" font-size:9pt;\">Besides, you can add any language you wish by inserting a </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> file into the &quot;languages&quot; file. By default Shangoo has English and Spanish language, by the way, the </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> file must contains the same keys like the originals.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">How do i comunicate a complain?</span></p><p><span style=\" font-size:9pt;\">If you want to rise a complain, please go to the Webside and enter in FAQ section. Then follow the given steps in the webpage.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">How do i report a bug?</span></p><p><span style=\" font-size:9pt;\">To report a bug of Shangoo, come in for your mail, then write a mail with the information you consider necessary, also as a suggestion leaving images or videos is a good help for sorting out and fixing your issues. For more information please go to Shangoo's Webpage</span></p></body></html>",
+        "calculators": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">How to use Shangoo calculators</span></p><p><span style=\" font-size:10pt; font-weight:600;\">Standar calculator</span></p><p><span style=\" font-size:9pt;\">Standar calculator is a very simple instance of a calculator, it's useful for casual user, to do calculation, also kids will have no complications with its functioning</span></p><p><br/><span style=\" font-size:10pt; font-weight:600;\">Sciencie calculator</span></p><p><span style=\" font-size:9pt;\">Using Sciencie calculator is as easy as using Standar, nevertheless there're some details that you probably need to know to get some results correctly.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">- Previous knowledge</span></p><p>To use any sciencie calculator you need to understand math and once you've done it, you'll be able to execute any function in science and trigonometry calculators. However here's the most interesting things that you could need.<br/></p><p><span style=\" text-decoration: underline;\">- nCr</span></p><p>Combination formule is a quick method for getting results efficienlty about the amount of combinations no minding the order. To use this functions correctly, firstly you need to pass the &quot;n&quot; value (combinations number), then press &quot;nCr&quot; button, and pass &quot;r&quot; (amount of available spaces to sort).</p><p><span style=\" text-decoration: underline;\">- nPr</span></p><p>Permutation formule is a pretty similar to Combination formule, by excepting that in this case, the order does to matter itself. The procedure to use correctly this method is named in &quot;nCr&quot; funtions above this definition.<br/><span style=\" text-decoration: underline;\">- Absolute value</span></p><p>Absolute value is a math functions defined as the the squared root of a x squared. This always returns a positive value, also it could be defined as the distance between the origin on the number line.</p><p>To use it, you need to press the button, pass the number you need and press the button one more time.</p><p><span style=\" text-decoration: underline;\">- ENG</span></p><p>Engineer function is a very useful operation that allows you to know how it equals a expression in scientific notation, by pressing + or - ENG mode, your math expression will to change into a new relative expression expressed in scientific notation.</p><p><span style=\" text-decoration: underline;\">- Factorial (n!)</span></p><p>A number factorial is defined as that num times that num-1 and doing the same until number one. Just place the number you need and press &quot;n!&quot; button, get the result and the see. Warning, higher numbers might get errors or get super big numbers.</p><p><span style=\" text-decoration: underline;\">- Roots</span></p><p>To get a Squared root, you just need to press its button and place the number, and done! you did it. However for get a Y root, you'll need to put Y number to the left side to &quot;Root&quot; symbol, otherwise, you will get a Squared root.</p><p><span style=\" text-decoration: underline;\">- Logarithms</span></p><p>The process to get a Natural logarithm or Log is pretty simple, just put the number to the right side of the function. In case to get a LOGY you have to put &quot;^&quot; next to your power number.</p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Trigonometry calculator</span></p><p><span style=\" font-size:9pt;\">Trigonometry calculator of Shangoo is quite a simple, there're the whole trigonometric functions you require in the trigonometry basics.</span></p><p><span style=\" font-size:9pt;\">To use any of them just set you cursor over them and press left click button, the functions will appear on the main line edit, then place you number and press &quot;=&quot; button. This procedure work for any of them</span><br/></p></body></html>",
+        "manual": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Manual drawer of procedures</span></p><p><span style=\" font-size:10pt; font-weight:600;\">How to use it?</span></p><p><span style=\" font-size:9pt;\">This painter work only with the four basic operations, it uses the algorithm used when we was at school step, also it is useful for kids and your children (if you have ones).</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Steps</span></p><p><span style=\" font-size:9pt;\">1. First, set your operation by selecting it on the List of showed options (in case you didn't, the operation will be selected automatically.</span></p><p><span style=\" font-size:9pt;\">2. Make sure that in Multiply option you only have two number, otherwise the operation won't be like you pretended.</span></p><p><span style=\" font-size:9pt;\">3. Press on the &quot;Get result&quot; button and see the procedure. If you note any issues or inconsistencies, pleas let us know it through the FAQ section in Shangoo's Webpage.</span></p></body></html>",
+        "conversions": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Converting measures</span></p><p><span style=\" font-size:10pt; font-weight:600;\">What's &quot;Conversions&quot; section?</span></p><p><span style=\" font-size:9pt;\">Convertions sections is just a tool to convert the most used measure around the world, for instance, Centimeters into Meters. Also you can select the measure you need, not only lenht measure.</span></p><p><span style=\" font-size:10pt; font-weight:600;\">How to use it?</span></p><p><span style=\" font-size:9pt;\">This tool is formed by four sub-sections:</span></p><p><span style=\" font-size:9pt;\">- Main measure</span></p><p><span style=\" font-size:9pt;\">- First measure</span></p><p><span style=\" font-size:9pt;\">- Second measure</span></p><p><span style=\" font-size:9pt;\">- Definition frame</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Main measure</span></p><p><span style=\" font-size:9pt;\">This section is where you will select and choose the measure to work with, it is located on the top side and there's a ComboBox with the measure to choose.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">First measure</span></p><p><span style=\" font-size:9pt;\">This part is right down to &quot;Main measure&quot; sub-section. Here's where you'll choose the measure's measure, and then insert the number to convert.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Second measure</span></p><p><span style=\" font-size:9pt;\">This section works almost equal to the First one, expect that you can't write there, and the convertion's result will be showed on it, you can also choose the measure for converting.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Definition frame</span></p><p><span style=\" font-size:9pt;\">Inside this, you shall read the measure's defintion, and feed you mind with a gram of a new knowlegde.</span></p></body></html>",
+        "settings": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Settings help</span></p><p><span style=\" font-size:12pt; font-weight:600;\">What's in settings?</span></p><p><span style=\" font-size:10pt;\">Usually in setting you could find some options to change and modify Shangoo to your taste. You can change language, angle measurement units, furthermore you can change the preferences for a more customized experiencie in Shangoo application.</span></p><p><span style=\" font-size:10pt; font-weight:600;\">How to configure the language?</span></p><p><span style=\" font-size:9pt;\">To configure or set the language is as simple as to open the side menu by pressing the menu button.</span></p><p><span style=\" font-size:9pt;\">1. Go to help</span></p><p><span style=\" font-size:9pt;\">2. Press &quot;Settings&quot; button.</span></p><p><span style=\" font-size:9pt;\">3. Go to &quot;language&quot; tab.</span></p><p><span style=\" font-size:9pt;\">4. Select the needed one.</span></p><p><span style=\" font-size:9pt;\">5. Apply the changes.</span></p><p><span style=\" font-size:9pt;\">Besides, you can add any language you wish by inserting a </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> file into the &quot;languages&quot; file. By default Shangoo has English and Spanish language, by the way, the </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> file must contains the same keys like the originals.</span></p><p><span style=\" font-size:10pt; font-weight:600;\">How do i change the angle measurement units?</span></p><p><span style=\" font-size:9pt;\">As always, this process will be so simple. </span></p><p><span style=\" font-size:9pt;\">1. Just you have to get in Help</span></p><p><span style=\" font-size:9pt;\">2. Press &quot;Settings&quot; button</span></p><p><span style=\" font-size:9pt;\">3. Go to &quot;Angle measurement units&quot; tab</span></p><p><span style=\" font-size:9pt;\">4. Select the measure you want to</span></p><p><span style=\" font-size:9pt;\">5. And apply changes</span></p><p><span style=\" font-size:9pt;\">You don't need to restart Shangoo, and the changes will be saved unti the next time.</span></p><p><span style=\" font-size:10pt; font-weight:600;\">Macros or keys, how to use them?</span></p><p><span style=\" font-size:9pt;\">Have you ever need to save a result or value for using it after?, this functions will help you out with this trouble. Everytime you need to keep on a result without lose it, just save it in Macros list. There're five holes for you save your results.</span></p><p><span style=\" font-size:9pt;\">1. Get in Help, in menu</span></p><p><span style=\" font-size:9pt;\">2. Select &quot;Macros&quot; tab</span></p><p><span style=\" font-size:9pt;\">3. You'll see a table with the list of macros, just paste your result on the cell, and done, you can use it then.</span></p><p><span style=\" font-size:9pt;\">4. Also if you need, press &quot;Save macros&quot; button, otherwise your macros aren't going to save the next time you run Shangoo.</span></p><p><span style=\" font-size:9pt;\">5. Whenever you need to use any macros of the list, select it and press &quot;Use macro selected&quot;, you will see the macro on the main Line Edit, you can do whatever you want with them!</span></p><p><span style=\" font-size:9pt;\">Also you can reset the macros into by default configuration, by the way, you need to save that changes as well.<br/></span></p><p><span style=\" font-size:10pt; font-weight:600;\">Preferences</span></p><p><span style=\" font-size:10pt;\">The preferences are a series of options that allow you to configure some sections of the application, for this occasion doing so will be quite simple by following the following steps.</span></p><p><span style=\" font-size:10pt;\">1. Identify the option you want to change</span></p><p><span style=\" font-size:10pt;\">2. Check or uncheck the box of the desired option</span></p><p><span style=\" font-size:10pt;\">3. Press the &quot;apply&quot; button</span></p><p><span style=\" font-size:10pt;\">From now on the changes will be applied, it is not necessary to restart the application.</span></p></body></html>"
+    },
+
+    "angle_measure_unit":"Angle measurement units",
+
+    "preferences_txts": {
+        "logy_warning": "Show 'log yⁿ' warning",
+        "start_loadscreen": "Start with LoadScreen",
+        "start_menu": "Start with menu"
+    },
+
+    "macros_txts":{
+        "adjust_title":"Adjust macros",
+        "key_title": "Key",
+        "save_btn":"Save macros",
+        "reset_btn":"Reset macros",
+        "use_macro_btn":"Use macro selected"
+    },
+
+    "historial":{
+        "reset_btn": "Reset historial",
+        "empty_text": "There's no operations yet"
+    },
+
+    "manual":{
+        "select_title": "Select operation",
+        "insert_exp": "Insert expression",
+        "get_result_btn": "Get result",
+        "sum": "Sum",
+        "sub": "Subtraction",
+        "mult": "Multiply",
+        "divis": "Division",
+        "empty_text": "Waiting for a expression...",
+        "clear_btn": "Clear"
+    },
+
+    "convertions_txts":{
+        "head_frame": {
+            "title": "Select one",
+            "elements":{
+                "volume": {
+                    "title": "Volume",
+                    "definition": "Litre (l), also spelled liter, unit of volume in the metric system, equal to one cubic decimetre (0.001 cubic metre). From 1901 to 1964 the litre was defined as the volume of one kilogram of pure water at 4 °C (39.2 °F) and standard atmospheric pressure; in 1964 the original, present value was reinstated.",
+                    "cubic_meters": "Cubic meters",
+                    "cubic_cent": "Cubic centimeters",
+                    "liters": "Liters"
+                },
+                "lenght": {
+                    "title": "Lenght",
+                    "definition": "The base unit of length in the International System of Units that is equal to the distance traveled in a vacuum by light in 1/299,792,458 second or to about 39.37 inches. meter. noun. Medical Definition of meter (Entry 2 of 2) : an instrument for measuring and sometimes recording the time or amount of something.",
+                    "meters": "Meters",
+                    "milimeters": "Millimeters",
+                    "centimeters": "Centimeters",
+                    "kilometers": "Kilometers"
+                },
+                "weight": {
+                    "title": "Weight",
+                    "definition": "The kilogram is now defined in terms of the Planck constant, h, which has been measured with extraordinary precision in recent years. Its agreed value will be set as 6.626,070,15 × 10-34 kg m2 s–1, with researchers able to make precise mass measurement using equipment such as the Kibble balance.",
+                    "kilograms": "Kilograms",
+                    "grams": "Grams",
+                    "pound": "Pounds"
+                },
+                "temperature": {
+                    "title": "Temperature",
+                    "definition": "When the revised SI was approved in November 2018, the new definition became: The kelvin, symbol K, is the SI unit of thermodynamic temperature; its magnitude is set by fixing the numerical value of the Boltzmann constant to be equal to exactly 1.380649 × 10-23... J K-1[joules per kelvin].",
+                    "celsius": "Celsius",
+                    "fahrenheit": "Fahrenheit",
+                    "kelvin": "Kelvin"
+                },
+                "velocity": {
+                    "title": "Velocity",
+                    "definition": "The metre per second is an SI derived unit of both speed (scalar quantity) and velocity (vector quantity (which have direction and magnitude)), equal to the speed of a body covering a distance of one metre in a time of one second.",
+                    "meter_ps": "Meter per second",
+                    "kilometer_ph": "Kilometer per hour",
+                    "feet_away_ps": "Feet away per second",
+                    "mile_ph": "Mile per hour",
+                    "knot": "Knot"
+                },
+                "time": {
+                    "title": "Time",
+                    "definition": "The second is defined as being equal to the time duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the fundamental unperturbed ground-state of the caesium-133 atom.",
+                    "second": "Second",
+                    "nano": "Nanosecond",
+                    "micro": "Microsecond",
+                    "mili": "Milisecond",
+                    "minute": "Minute",
+                    "hour": "Hour",
+                    "day": "Day",
+                    "week": "Week",
+                    "month": "Month",
+                    "year": "Year",
+                    "decade": "Decade",
+                    "century": "Century"
+                },
+                "power": {
+                    "title": "Power",
+                    "definition": "Watt, unit of power in the International System of Units (SI) equal to one joule of work performed per second, or to 1/746 horsepower. An equivalent is the power dissipated in an electrical conductor carrying one ampere current between points at one volt potential difference.",
+                    "watt": "Watt",
+                    "kilowatt": "Kilowatt",
+                    "horse": "Horsepower"
+                },
+                "data": {
+                    "title": "Data",
+                    "definition": "Byte, the basic unit of information in computer storage and processing. A byte consists of 8 adjacent binary digits (bits), each of which consists of a 0 or 1. ... A byte can represent the equivalent of a single character, such as the letter B, a comma, or a percentage sign, or it can represent a number from 0 to 255.",
+                    "bit": "Bit",
+                    "kilobit": "Kilobit",
+                    "kibibit": "Kibibit",
+                    "megabit": "Megabit",
+                    "megabibit": "Megabibit",
+                    "gigabit": "Gigabit",
+                    "gigabibit": "Gibabibit",
+                    "terabit": "Terabit",
+                    "tebibit": "Terabibit",
+                    "petabit": "Petabit",
+                    "pebibit": "Pebibit",
+                    "byte": "Byte",
+                    "kilobyte": "Kilobyte",
+                    "kibibyte": "Kibibyte",
+                    "megabyte": "Megabyte",
+                    "mebibyte": "Mebibyte",
+                    "gigabyte": "Gigabyte",
+                    "gibibyte": "Gibibyte",
+                    "terabyte": "Terabyte",
+                    "tebibyte": "Tebibyte",
+                    "petabyte": "Petabyte",
+                    "pebibyte": "Pebibyte"
+                },
+                "angle": {
+                    "title": "Angle",
+                    "definition": "Well, a Radian, simply put, is a unit of measure for angles that is based on the radius of a circle. ... It is from this relationship that we say 2*π*r = 360 Degrees or that 1 Radian = 180/π Degrees and 1 Degree = π/180 Radians.",
+                    "cente": "Centesimal degree",
+                    "sexa": "Sexagesimal degree",
+                    "milradian": "Milliradian",
+                    "minute_arc": "Minute of arc",
+                    "radian": "Radian",
+                    "sexa_second": "Sexagesimal second"
+                }
+            }
+        },
+        "body_frame": {
+            "titles": {
+                "convertion1": "Conversion one",
+                "convertion2": "Conversion two",
+                "empty_value": "Value",
+                "place_holder_value": "Insert value",
+                "definition": "Definition",
+                "coming_soon": "Coming Soon!"
+            }
+        }
+    },
+
+    "sections_right": {
+        "historial": "Historial",
+        "manual": "Manual drawer",
+        "convertions": "Conversions",
+        "graphics": "Graphics"
+    }
+}

@@ -1,0 +1,201 @@
+{   "name":"es_mex.json",
+    "language":"Español",
+
+    "settings_btn":{
+        "name":"Ajustes",
+        "language":"Idioma",
+        "units":"Unidades",
+        "macros":"Atajos",
+        "preferences": "Preferencias"
+    },
+
+    "social_media": {
+        "webpage": "Pagina web",
+        "youtube": "Canal de Youtube",
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+    },
+    
+    "media_btn":"Redes sociales",
+    "about_btn":"Acerca de",
+    "help":"Ayuda",
+    "apply_btn":"Aplicar",
+
+    "standar_mode":"Estandar",
+    "science_mode":"Ciencia",
+    "trigonometry_mode":"Trigonometría",
+
+    "warning":{
+        "restart":"Por favor reinicia Shangoo para aplicar los cambios",
+        "title": "Atención!",
+        "logy_help":"No olvides esto: logy solamente funciona cuando pones ^ al lado del numero que quieres usar\nEjemplo: logy8^23",
+        "eng_help":"No olvides esto: El boton de ingenieria solo funciona con operaciones simples, no intentes con complejas"
+    },
+
+    "help_texts": {
+        "useful_t": "Lo útil",
+        "calcul_t": "Calculadoras",
+        "manual_t": "Pintor manual",
+        "conversions_t": "Conversiones",
+        "settings_t": "Ajustes",
+        "useful": "<html><head/><body><p align=\"center\"><span style=\" font-size:11pt; font-weight:600;\">Lo más útil</span></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Qué es Shangoo?</span></p><p><span style=\" font-size:9pt;\">Shangoo es una calculadora con todas las funciones conocidas, sin embargo, Shangoo incluye funciones útiles para usuarios ocasionales, las funciones son las siguientes:</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Calculadora estándar</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Calculadora científica</span></p><p><span style=\" font-size:9pt; font-style:italic;\">-Calculadora de Trygonometría</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Función histórica</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Operaciones de pintura</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Conversiones de medidas</span></p><p><span style=\" font-size:9pt; font-style:italic;\">- Gráficos</span></p><p><br/></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo configurar el idioma?</span></p><p><span style=\" font-size:9pt;\">Configurar o establecer el idioma es tan simple como abrir el menú lateral presionando el botón de menú.</span></p><p><span style=\" font-size:9pt;\">1. Ir a ayudar</span></p><p><span style=\" font-size:9pt;\">2. Presione el botón &quot;Configuración&quot;.</span></p><p><span style=\" font-size:9pt;\">3. Vaya a la pestaña &quot;idioma&quot;.</span></p><p><span style=\" font-size:9pt;\">4. Seleccione el necesario.</span></p><p><span style=\" font-size:9pt;\">5. Aplicar los cambios.</span></p><p><span st\" font-size:9pt;\">Además, puede agregar cualquier idioma que desee insertando un archivo </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> en el archivo &quot;languages&quot;. Por defecto, Shangoo tiene idioma inglés y español, por cierto, el archivo </span><span style=\" font-size:9pt; font-weight:600;\">json</span><span style=\" font-size:9pt;\"> debe contener las mismas claves que los originales.</span></p><p><br/></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo comunico una queja?</span></p><p><span style=\" font-size:9pt;\">Si desea presentar una queja, vaya al sitio web e ingrese en la sección de preguntas frecuentes. Luego siga los pasos dados en la página web.</span></p><p><br/></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo informo de un error?</span></p><p><span style=\" font-size:9pt;\">Para reportar un bug de Shangoo, entra por tu mail, luego escribe un mail con la información que consideres necesaria, también como sugerencia dejar imágenes o videos es una buena ayuda para resolver y solucionar tus problemas. Para obtener más información, visite la página web de Shangoo.</span></p></body></html>",
+        "calculators": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Cómo usar las calculadoras Shangoo</span></p><p align=\"center\"><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Calculadora estándar</span></p><p><span style=\" font-size:9pt;\">La calculadora estándar es una instancia muy simple de una calculadora, es útil para usuarios ocasionales, para hacer cálculos, además los niños no tendrán complicaciones con su funcionamiento.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Calculadora de ciencia</span></p><p><span style=\" font-size:9pt;\">Usar la calculadora Sciencie es tan fácil como usar Standar, sin embargo, hay algunos detalles que probablemente necesite saber para obtener algunos resultados correctamente.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">- Conocimiento previo</span></p><p><span style=\" font-size:9pt; font-style:italic;\">Para usar cualquier calculadora científica, debe comprender las matemáticas y, una vez que lo haya hecho, podrá ejecutar cualquier función en las calculadoras científicas y de trigonometría. Sin embargo, aquí están las cosas más interesantes que podrías necesitar.</span></p><p><br/></p><p><span style=\" text-decoration: underline;\">- nCr</span></p><p>La fórmula de combinación es un método rápido para obtener resultados eficientes sobre la cantidad de combinaciones sin importar el orden. Para usar estas funciones correctamente, primero debe pasar el valor &quot;n&quot; (número de combinaciones), luego presionar el botón &quot;nCr&quot; y pasar &quot;r&quot; (cantidad de espacios disponibles para ordenar).</p><p><br/></p><p><span style=\" text-decoration: underline;\">- nPr</span></p><p>La fórmula de permutación es bastante similar a la fórmula de combinación, con la excepción de que, en este caso, el orden sí importa. El procedimiento para utilizar correctamente este método se nombra en las funciones &quot;nCr&quot; por encima de esta definición.</p><p><br/></p><p><span style=\" text-decoration: underline;\">- Valor absoluto</span></p><p>El valor absoluto es una función matemática definida como la raíz cuadrada de una x al cuadrado. Esto siempre devuelve un valor positivo, también podría definirse como la distancia entre el origen en la recta numérica.</p><p>Para usarlo, debe presionar el botón, pasar el número que necesita y presionar el botón una vez más.</p><p><br/></p><p><span style=\" text-decoration: underline;\">- ENG</span></p><p>La función de ingeniero es una operación muy útil que le permite saber cómo es igual a una expresión en notación científica, al presionar + o - modo ENG, su expresión matemática cambiará a una nueva expresión relativa expresada en notación científica.</p><p><br/></p><p><span style=\" text-decoration: underline;\">- Factorial (n!)</span></p><p>Un factorial numérico se define como ese número multiplicado por ese número-1 y haciendo lo mismo hasta el número uno. Simplemente coloque el número que necesita y presione &quot;n!&quot; , obtenga el resultado y vea. Advertencia, los números más altos pueden generar errores u obtener números supergrandes.</p><p><br/></p><p><span style=\" text-decoration: underline;\">- Raíces</span></p><p>Para obtener una raíz cuadrada, solo necesita presionar su botón y colocar el número, ¡y listo! lo hiciste. Sin embargo, para obtener una raíz Y, deberá colocar el número Y en el lado izquierdo del símbolo &quot;Raíz&quot;; de lo contrario, obtendrá una raíz cuadrada.</p><p><br/></p><p><span style=\" text-decoration: underline;\">- Logaritmos</span></p><p>El proceso para obtener un logaritmo natural o Log es bastante simple, simplemente coloque el número en el lado derecho de la función. En caso de obtener un LOGY, debe poner &quot;^&quot; al lado de su número de potencia.</p><p><br/></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Calculadora de trigonometría</span></p><p><span style=\" font-size:9pt;\">La calculadora de trigonometría de Shangoo es bastante simple, hay todas las funciones trigonométricas que necesita en los conceptos básicos de trigonometría.</span></p><p><span style=\" font-size:9pt;\">Para usar cualquiera de ellos, simplemente coloque el cursor sobre ellos y presione el botón izquierdo, las funciones aparecerán en la línea principal de edición, luego coloque su número y presione el botón &quot;=&quot;. Este procedimiento funciona para cualquiera de ellos.</span><br/></p></body></html>",
+        "manual": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Cajón manual de procedimientos</span></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo usarlo?</span></p><p><span style=\" font-size:10pt;\">Este pintor trabaja solo con las cuatro operaciones básicas, usa el algoritmo que usamos cuando estábamos en la etapa escolar, también es útil para los niños y tus hijos (si los tienes).</span></p><p><span style=\" font-size:10pt;\">Pasos</span></p><p><br/></p><p><span style=\" font-size:9pt;\">1. Primero, configure su operación seleccionándola en la Lista de opciones mostradas (en caso de que no lo haya hecho, la operación se seleccionará automáticamente.</span></p><p><span style=\" font-size:9pt;\">2. Asegúrate de que en la opción Multiplicar solo tienes dos números, de lo contrario la operación no será como pretendías.</span></p><p><span style=\" font-size:9pt;\">3. Presione el botón &quot;Obtener resultado&quot; y vea el procedimiento. Si nota algún problema o inconsistencia, háganoslo saber a través de la sección de preguntas frecuentes en la página web de Shangoo.</span></p></body></html>",
+        "conversions": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Conversión de medidas</span></p><p align=\"center\"><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Qué es la sección &quot;Conversiones&quot;?</span></p><p><span style=\" font-size:9pt;\">Las secciones de conversiones son solo una herramienta para convertir la medida más utilizada en todo el mundo, por ejemplo, centímetros en metros. También puede seleccionar la medida que necesita, no solo la medida de longitud.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo usarlo?</span></p><p><span style=\" font-size:9pt;\">Esta herramienta está formada por cuatros subsectores:</span></p><p><span style=\" font-size:9pt;\">- Medida principal</span></p><p><span style=\" font-size:9pt;\">- Primera medida</span></p><p><span style=\" font-size:9pt;\">- Segundo compás</span></p><p><span style=\" font-size:9pt;\">- Marco de definición</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Medida principal</span></p><p><span style=\" font-size:9pt;\">En esta sección es donde seleccionarás y elegirás la medida con la que trabajar, está ubicada en la parte superior y hay un ComboBox con la medida a elegir.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Primera medida</span></p><p><span style=\" font-size:9pt;\">Esta parte se reduce a la subsección &quot;Medida principal&quot;. Aquí es donde elegirá la medida de la medida y luego insertará el número para convertir.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Segundo compás</span></p><p><span style=\" font-size:9pt;\">Esta sección funciona casi igual que la Primera, espere que no pueda escribir allí, y el resultado de la conversión se mostrará en ella, también puede elegir la medida para convertir.</span></p><p><span style=\" font-size:9pt; font-weight:600;\">Marco de definición</span></p><p><span style=\" font-size:9pt;\">Dentro de esto, leerá la definición de la medida y alimentará su mente con un gramo de un nuevo conocimiento.</span></p></body></html>",
+        "settings": "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600;\">Ayuda de configuración</span></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Qué hay en la configuración?</span></p><p><span style=\" font-size:10pt;\">Por lo general, en la configuración, puede encontrar algunas opciones para cambiar y modificar Shangoo a su gusto. Puede cambiar el idioma, las unidades de medida de ángulos, además puede cambiar las preferencias para una experiencia más personalizada en la aplicación Shangoo.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo configurar el idioma?</span></p><p><span style=\" font-size:10pt;\">Configurar o establecer el idioma es tan simple como abrir el menú lateral presionando el botón de menú.</span></p><p><span style=\" font-size:10pt;\">1. Ir a ayudar</span></p><p><span style=\" font-size:10pt;\">2. Presione el botón &quot;Configuración&quot;.</span></p><p><span style=\" font-size:10pt;\">3. Vaya a la pestaña &quot;idioma&quot;.</span></p><p><span style=\" font-size:10pt;\">4. Seleccione el necesario.</span></p><p><span style=\" font-size:10pt;\">5. Aplicar los cambios.</span></p><p><br/></p><p><span style=\" font-size:10pt;\">Además, puede agregar cualquier idioma que desee insertando un archivo json en el archivo &quot;languages&quot;. Por defecto, Shangoo tiene idioma inglés y español, por cierto, el archivo json debe contener las mismas claves que los originales.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">¿Cómo cambio las unidades de medida de los ángulos?</span></p><p><span style=\" font-size:10pt;\">Como siempre, este proceso será muy sencillo.</span></p><p><span style=\" font-size:10pt;\">1. Solo tienes que acceder a la Ayuda</span></p><p><span style=\" font-size:10pt;\">2. Presione el botón &quot;Configuración&quot;</span></p><p><span style=\" font-size:10pt;\">3. Vaya a la pestaña &quot;Unidades de medida de ángulos&quot;.</span></p><p><span style=\" font-size:10pt;\">4. Seleccione la medida que desea</span></p><p><span style=\" font-size:10pt;\">5. Y aplicar cambios</span></p><p><br/></p><p><span style=\" font-size:10pt;\">No es necesario reiniciar Shangoo y los cambios se guardarán hasta la próxima vez.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Macros o teclas, ¿cómo usarlas?</span></p><p><span style=\" font-size:10pt;\">¿Alguna vez ha necesitado guardar un resultado o valor para usarlo después ?, estas funciones le ayudarán con este problema. Cada vez que necesite mantener un resultado sin perderlo, simplemente guárdelo en la lista de Macros. Hay cinco agujeros para que guardes tus resultados.</span></p><p><span style=\" font-size:10pt;\">1. Acceda a Ajustes, en el menú</span></p><p><span style=\" font-size:10pt;\">2. Seleccione la pestaña &quot;Macros&quot;</span></p><p><span style=\" font-size:10pt;\">3. Verá una tabla con la lista de macros, simplemente pegue su resultado en la celda y listo, puede usarlo entonces.</span></p><p><span style=\" font-size:10pt;\">4. Además, si lo necesita, presione el botón &quot;Guardar macros&quot;; de lo contrario, sus macros no se guardarán la próxima vez que ejecute Shangoo.</span></p><p><span style=\" font-size:10pt;\">5. Siempre que necesite usar alguna de los macros de la lista, selecciónelo y presione &quot;Usar macro seleccionado&quot;, verá el macro en la linea de Edición principal, ¡Puede hacer lo que quiera con ellos!</span></p><p><br/></p><p><span style=\" font-size:10pt;\">También puede restablecer las macros en la configuración predeterminada, por cierto, también debe guardar los cambios.</span></p><p><br/></p><p><span style=\" font-size:10pt; font-weight:600;\">Preferencias</span></p><p><span style=\" font-size:10pt;\">Las preferencias son una serie de opciones que le permiten a usted configurar algunos apartados de la aplicacion, para esta ocasion hacerlo sera bastante sencillo siguiendo los siguientes pasos.</span></p><p><span style=\" font-size:10pt;\">1. Identifique la opcion que desea cambiar</span></p><p><span style=\" font-size:10pt;\">2. Marque o desmarque la casilla de la opcion deseada</span></p><p><span style=\" font-size:10pt;\">3. Presione el boton de &quot;aplicar&quot;</span></p><p><span style=\" font-size:10pt;\">De ahora en adelante los cambios se aplicaran, no es necesario reiniciar la aplicacion.</span></p></body></html>"
+    },
+
+    "angle_measure_unit":"Unidades de medida del angulo",
+
+    "preferences_txts": {
+        "logy_warning": "Mostrar aviso de 'log yⁿ'",
+        "start_loadscreen": "Iniciar pantalla de carga",
+        "start_menu": "Iniciar con menu"
+    },
+
+    "macros_txts":{
+        "adjust_title":"Ajustar atajos",
+        "key_title": "Clave",
+        "save_btn":"Guardar atajo",
+        "reset_btn":"Reiniciar atajos",
+        "use_macro_btn":"Usar atajo seleccionado"
+    },
+
+    "historial":{
+        "reset_btn": "Reiniciar historial",
+        "empty_text": "No hay operaciones aun"
+    },
+
+    "manual":{
+        "select_title": "Seleccionar operación",
+        "insert_exp": "Insertar expresión",
+        "get_result_btn": "Obtener resultado",
+        "sum": "Suma",
+        "sub": "Resta",
+        "mult": "Multiplicación",
+        "divis": "Division",
+        "empty_text": "Esperando alguna expresión",
+        "clear_btn": "Limpiar"
+    },
+
+    "convertions_txts":{
+        "head_frame": {
+            "title": "Seleccionar uno",
+            "elements":{
+                "volume": {
+                    "title": "Volumen",
+                    "definition": "El litro es una unidad de volumen del sistema métrico decimal, aceptada por el SI, igual a 1 decímetro cúbico, 1000 centímetros cúbicos o 1/1000 metros cúbicos. Un decímetro cúbico ocupa un volumen de 10 cm × 10 cm × 10 cm y, por tanto, es igual a una milésima de un metro cúbico.",
+                    "cubic_meters": "Metros cubicos",
+                    "cubic_cent": "Centimetros cubicos",
+                    "liters": "Litros"
+                },
+                "lenght": {
+                    "title": "Longitud",
+                    "definition": "El metro ​ es la unidad coherente de longitud del Sistema Internacional de Unidades.​ Se define como la distancia que recorre la luz en el vacío en un intervalo de 1/299 792 458 s.",
+                    "meters": "Metros",
+                    "milimeters": "Milimetros",
+                    "centimeters": "Centimetros",
+                    "kilometers": "Kilometros"
+                },
+                "weight": {
+                    "title": "Peso",
+                    "definition": "Unidad de masa del Sistema Internacional, de símbolo kg, que equivale a la masa del prototipo de platino iridiado que se encuentra en la Oficina Internacional de pesas y medidas de París.",
+                    "kilograms": "Kilogramos",
+                    "grams": "Gramos",
+                    "pound": "Libras"
+                },
+                "temperature": {
+                    "title": "Temperatura",
+                    "definition": "El kelvin, antes llamado grado Kelvin, ​ es la unidad de temperatura de la escala creada en 1848 por William Thomson, primer barón de Kelvin, sobre la base del grado Celsius, estableciendo el punto cero en el cero absoluto y conservando la misma dimensión.",
+                    "celsius": "Celsius",
+                    "fahrenheit": "Fahrenheit",
+                    "kelvin": "Kelvin"
+                },
+                "velocity": {
+                    "title": "Velocidad",
+                    "definition": "El metro por segundo es una unidad derivada del Sistema Internacional, de símbolo m/s, tanto de rapidez como de velocidad. Equivale a la velocidad de un cuerpo que recorre una longitud de 1 metro en 1 segundo. En el Sistema Internacional de Unidades se expresa como «m/s», «m·s⁻¹», «m s⁻¹», o «».",
+                    "meter_ps": "Metro por segundo",
+                    "kilometer_ph": "Kilometro por hora",
+                    "feet_away_ps": "Pie por segundo",
+                    "mile_ph": "Milla por hora",
+                    "knot": "Nudo"
+                },
+                "time": {
+                    "title": "Tiempo",
+                    "definition": "Desde 1967, el segundo se define exactamente como: «la duración de 9.192.631 770 períodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado básico del átomo de cesio-133 a una temperatura de 0 K",
+                    "second": "Segundo",
+                    "nano": "Nanosegundo",
+                    "micro": "Microsegundo",
+                    "mili": "Milisegundo",
+                    "minute": "Minuto",
+                    "hour": "Hora",
+                    "day": "Día",
+                    "week": "Semana",
+                    "month": "Mes",
+                    "year": "Año",
+                    "decade": "Decada",
+                    "century": "Siglo"
+                },
+                "power": {
+                    "title": "Potencia",
+                    "definition": "El vatio​ o watt​ es la unidad derivada coherente del Sistema Internacional de Unidades para la potencia. Es igual a 1 julio por segundo. Se utiliza para cuantificar la tasa a la que se transfiere la energía. En términos de Unidades básicas del SI, el vatio se describe como kg⋅m²/s³.",
+                    "watt": "Vatio",
+                    "kilowatt": "Kilovatio",
+                    "horse": "Caballos de fuerza"
+                },
+                "data": {
+                    "title": "Almacenamiento digital",
+                    "definition": "Byte ​​es la unidad de información de base utilizada en computación y en telecomunicaciones, y que resulta equivalente a un conjunto ordenado de ocho bits, ​​​​​​​​ por lo que en español también se le denomina octeto.​",
+                    "bit": "Bit",
+                    "kilobit": "Kilobit",
+                    "kibibit": "Kibibit",
+                    "megabit": "Megabit",
+                    "megabibit": "Megabibit",
+                    "gigabit": "Gigabit",
+                    "gigabibit": "Gibabibit",
+                    "terabit": "Terabit",
+                    "tebibit": "Terabibit",
+                    "petabit": "Petabit",
+                    "pebibit": "Pebibit",
+                    "byte": "Byte",
+                    "kilobyte": "Kilobyte",
+                    "kibibyte": "Kibibyte",
+                    "megabyte": "Megabyte",
+                    "mebibyte": "Mebibyte",
+                    "gigabyte": "Gigabyte",
+                    "gibibyte": "Gibibyte",
+                    "terabyte": "Terabyte",
+                    "tebibyte": "Tebibyte",
+                    "petabyte": "Petabyte",
+                    "pebibyte": "Pebibyte"
+                },
+                "angle": {
+                    "title": "Angulo",
+                    "definition": "Unidad de medida de ángulos del Sistema Internacional, de símbolo rad, que equivale a un ángulo plano que teniendo su vértice en el centro de una circunferencia, le corresponde un arco de longitud igual al radio de la circunferencia.",                    "cente": "Grado centesimal",
+                    "sexa": "Grado sexagesimal",
+                    "milradian": "Milirradian",
+                    "minute_arc": "Minuto de arco",
+                    "radian": "Radián",
+                    "sexa_second": "Segundo sexagesimal "
+                }
+            }
+        },
+        "body_frame": {
+            "titles": {
+                "convertion1": "Conversión uno",
+                "convertion2": "Conversión dos",
+                "empty_value": "Valor",
+                "place_holder_value": "Ingresar valor",
+                "definition": "Definición",
+                "coming_soon": "Proximamente!"
+            }
+        }
+    },
+
+    "sections_right": {
+        "historial": "Historial",
+        "manual": "Pintor manual",
+        "convertions": "Conversiones",
+        "graphics": "Gráficas"
+    }
+}

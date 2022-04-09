@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>sprites/icons/main_ico.png</file>
+    <file>sprites/icons/yroot.svg</file>
+    <file>sprites/icons/config.png</file>
+    <file>sprites/icons/help.png</file>
+    <file>sprites/icons/menu.png</file>
+    <file>sprites/icons/social.png</file>
+    <file>sprites/icons/web.png</file>
+    <file>sprites/icons/close.svg</file>
+    <file>sprites/icons/maximize.svg</file>
+    <file>sprites/icons/instagram.svg</file>
+    <file>sprites/icons/web.png</file>
+    <file>sprites/icons/minimize.svg</file>
+    <file>sprites/icons/youtube.svg</file>
+    <file>sprites/icons/facebook.svg</file>
+    <file>sprites/icons/hand.png</file>
+    <file>sprites/icons/save.png</file>
+    <file>sprites/icons/clear.png</file>
+    <file>sprites/icons/graphics.png</file>
+    <file>sprites/icons/pi.png</file>
+    <file>sprites/icons/historial.png</file>
+    <file>sprites/icons/math.png</file>
+    <file>sprites/icons/paint.png</file>
+    <file>sprites/icons/rule.png</file>
+    <file>sprites/icons/science.png</file>
+    <file>sprites/icons/crrt.svg</file>
+    <file>sprites/background_load.jpg</file>
+    <file>sprites/cil-power-standby.png</file>
+    <file>sprites/icons/sqrt.png</file>
+    <file>sprites/icons/trigonometry.png</file>
+  </qresource>
+</RCC>
